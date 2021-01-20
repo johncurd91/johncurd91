@@ -10,6 +10,6 @@
 ### Looking for work! 🔎
 I am currently looking for an internship oppurtunity.
 
-As part of my PhD, it is recommended that I go on a 3-month professional internship placement. As the BBSRC would continue to pay my stipend during this time, all I would need from a host organisation is an exciting project for me to tackle (that would be appropriate for someone with beginner-to-intermediate Python skills) and a little guidance.
+As part of my PhD, it is recommended that I go on a 3-month professional internship placement (PIP). As the research council which funds my PhD would continue to pay my stipend during this time, all I would need from a host organisation is an exciting project for me to tackle (that would be appropriate for someone with beginner-to-intermediate Python skills) and a little guidance.
 
 If you think you might be able to offer such an opportunity, please email me!
